@@ -3,6 +3,13 @@
  * Students can modify and extend to implement their game.
  * Add your name as a modifier and the date!
  */
+/*
+Group Members 
+Yash Karkar
+Dhruv Patel
+Kapil Jayswal
+Chintan Ganeshwala
+*/
 package ca.sheridancollege.project;
 
 /**
